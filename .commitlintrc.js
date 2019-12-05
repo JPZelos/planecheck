@@ -1,0 +1,1 @@
+module.exports = { ectends: ['@commitlint/config-conventional'] }
