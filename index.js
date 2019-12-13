@@ -1,1 +1,1 @@
-console.log('Hello from PlaneCheck!!');
+console.log('Hello from PlaneCheck!');
