@@ -1,3 +1,23 @@
+// colours
+$colour-white: #ffffff;
+$colour-black: #1e1e1e;
+$colour-gray: #858585;
+$colour-gray--light: #e7e7e7;
+$colour-gray--dark: #3c3c3c;
+$colour-purple: #8345da;
+$colour-purple--light: #a674ef;
+$colour-purple--dark: #7121e3;
+$colour-green: #0cd4c3;
+$colour-green--light: #73fff3;
+$colour-green--dark: #00978b;
+
+$colour-primary: $colour-purple;
+$colour-primary--light: $colour-purple--light;
+$colour-primary--dark: $colour-purple--dark;
+$colour-secondary: $colour-green;
+$colour-secondary--light: $colour-green--light;
+$colour-secondary--dark: $colour-green--dark;
+
 h1 {
     color: red;
 }
