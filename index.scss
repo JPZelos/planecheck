@@ -18,6 +18,26 @@ $colour-secondary: $colour-green;
 $colour-secondary--light: $colour-green--light;
 $colour-secondary--dark: $colour-green--dark;
 
+// typography
+$colour-font: $colour-black;
+$colour-font--alt: $colour-white;
+
+$font-size--xxsmall: 12px;
+$font-size--xsmall: 13px;
+$font-size--small: 14px;
+$font-size--medium: 18px;
+$font-size--large: 24px;
+$font-size--xlarge: 36px;
+$font-size--xxlarge: 64px;
+$font-size--xxxlarge: 72px;
+
+$font-weight--lighter: 100;
+$font-weight--light: 300;
+$font-weight--normal: 400;
+$font-weight--bold: 700;
+$font-weight--bolder: 900;
+
+
 h1 {
     color: red;
 }
