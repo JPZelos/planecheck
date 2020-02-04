@@ -1,0 +1,23 @@
+.card {
+    box-shadow: 2px 2px 6px 0 rgba(30, 30, 30, 0.1);
+    transition: box-shadow 150ms ease-in-out;
+    width: 300px;
+    height: 300px;
+    padding: 30px 20px 0px 20px;
+
+    &:hover {
+        box-shadow: 4px 4px 12px 0 rgba(30, 30, 30, 0.2);
+      }
+
+    &__header {
+        margin-bottom: 25px;
+    }
+
+    &__body {
+        margin-bottom: 25px;
+    }
+
+    &__footer {
+        
+    }
+  }
