@@ -11,6 +11,10 @@
 
     &__header {
         margin-bottom: 25px;
+        
+        h2 {
+          font-weight: $font-weight--normal;
+        }
     }
 
     &__body {
