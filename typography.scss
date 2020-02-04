@@ -1,6 +1,6 @@
 // typography
-$colour-font: $colour-black;
-$colour-font--alt: $colour-white;
+$color-font: $color-black;
+$color-font--alt: $color-white;
 
 $font-size--xxsmall: 12px;
 $font-size--xsmall: 13px;
@@ -21,14 +21,14 @@ $font-weight--bolder: 900;
 
 
 body {
-    color: $colour-font;
+    color: $color-font;
     font-family: 'Fira Sans', sans-serif;
     font-size: $font-size--medium;
     font-weight: $font-weight--normal;
 }
 
-.font-colour--alt {
-    color: $colour-font--alt;
+.font-color--alt {
+    color: $color-font--alt;
 }
 
 .font-size--xxxlarge {
@@ -93,10 +93,10 @@ h6,
 blockquote {
     margin-left: 0;
     margin-right: 0;
-    border-left: 2px $colour-primary solid;
+    border-left: 2px $color-primary solid;
     padding-left: 5px;
 
     &.secondary {
-        border-left-color: $colour-secondary;
+        border-left-color: $color-secondary;
     }
 }
